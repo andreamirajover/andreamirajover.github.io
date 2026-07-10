@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: About Me
+nav_enabled: true
+nav_order: 1
 permalink: /
 ---
 
-
 # Hi! I'm Andrea 👋
-
 Be patient 🐢
 
 <img src="{{ '/assets/img/DSCN1810.JPG' | relative_url }}" style="width: 180px; float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 0 !important;">
