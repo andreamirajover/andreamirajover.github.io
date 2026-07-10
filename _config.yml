@@ -4,7 +4,7 @@ description: Bookmark this to keep an eye on my project updates!
 
 # Config
 header_pages:
-  - index.md
+- index.md
   - publications.md
   - research.md
   - repositories.md
