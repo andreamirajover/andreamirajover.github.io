@@ -6,7 +6,7 @@ permalink: /
 
 # Hi! I'm Andrea👋
 
-Making my progress with this stuffs 🐢
+Be patient🐢
 <img src="{{ '/assets/img/DSCN1810.JPG' | relative_url }}" style="width: 180px; float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 0 !important;">
 
 <div style="clear: both;"></div>
