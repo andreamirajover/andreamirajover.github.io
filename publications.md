@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Publications
-permalink: /
+nav_enabled: true
+nav_order: 2
+permalink: /publications/
 ---
 
 # 📚 Publications
