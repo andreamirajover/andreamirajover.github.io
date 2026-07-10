@@ -1,3 +1,20 @@
 theme: jekyll-theme-minimal
 title: Andrea's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# Config
+navigation:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications.html
+  - title: Research
+    url: /research.html
+  - title: Repositories
+    url: /repositories.html
+  - title: CV
+    url: /cv.html
+  - title: Teaching
+    url: /teaching.html
+  - title: Outreach
+    url: /outreach.html
