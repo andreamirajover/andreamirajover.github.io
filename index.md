@@ -1,7 +1,24 @@
+---
 layout: page
+title: About Me
+permalink: /
+---
 
-title: "PAGE-TITLE"
+# Hi! I'm Andrea👋
 
-permalink: https://andreamirajover.github.io/about/test
+Making my progress with this stuffs 🐢
 
-In this page I'm making my progress with Github pages
+<img src="{{ '/assets/img/la-meua-foto.jpg' | relative_url }}" style="width:180px; border-radius:50%; float:right; margin-left:20px; margin-bottom:20px;">
+
+
+<div style="clear: both;"></div> ---
+
+## 📝 Latest Posts
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <i>{{ post.date | date: "%d/%m/%Y" }}</i>
+    </li>
+  {% endfor %}
+</ul>
