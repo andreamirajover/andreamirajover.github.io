@@ -3,7 +3,7 @@ layout: default
 title: About Me
 nav_enabled: true
 nav_order: 1
-permalink: /
+permalink: /index/
 ---
 
 # Hi! I'm Andrea 👋
