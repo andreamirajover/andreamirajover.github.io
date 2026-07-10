@@ -1,7 +1,7 @@
 
 layout: page
 title: About Me
-permalink: /
+permalink: https://andreamirajover.github.io/
 
 
 # Hi! I'm Andrea👋
